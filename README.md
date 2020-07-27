@@ -1,2 +1,2 @@
 # pagingExample
-infinite scroll recyclerview with paging library
+Infinite scroll recyclerview with paging library
